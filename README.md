@@ -3,5 +3,5 @@ My favorite type of pizza
 
 ## Toppings
 * cheese
-* pepperino
+* peperino
 * bacon
